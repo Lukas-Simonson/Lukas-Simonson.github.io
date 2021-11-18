@@ -1,0 +1,77 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Mobile App Developer
+# your company information
+# company:
+#   name: Example Co.
+#   url: "https://www.example.com"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'Hard working Android / IOS App Development student currently attending Dixie Technical College. Aiming to leverage a proven knowledge of application development, IT strategy, and project life cycle skills to successfully fill the Android Developer role at your company. Frequently praised as quality-oriented by my peers, I can be relied upon to help your company achieve its goals.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "simonson.lukas@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/Lukas-Simonson"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/lukas-simonson-682a1711a/"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+
+- type: certification
+  name: Google Workspace
+  url: "https://cloud.google.com/certification/workspace"
+  badge: "https://www.aeseducation.com/hs-fs/hubfs/g-suite-certification-badge.jpg?width=180&name=g-suite-certification-badge.jpg"
+
+- type: certification
+  name: TestOut PC Pro
+  url: "https://w3.testout.com/pro-certifications/pc-pro"
+  badge: "https://assets-global.website-files.com/5fc82ceef95f49286b9a1737/5fc8364faf362543885eebed_LS-Icon-PCPro-exam.png"
+
+- type: certification
+  name: Microsoft Office Specialist
+  url: "https://support.microsoft.com/en-us/topic/earn-a-microsoft-office-specialist-mos-certification-0885c944-167c-51ea-1cdc-8f65952bd1b8"
+  badge: "https://images.credly.com/size/680x680/images/7fab944f-0d46-4cda-afb6-39307e2432a9/MOS_-_Office_Specialist_Associate-600x600.png"
+
+- type: soft-skill-indicator
+  name: Problem Solving
+  percentage: 95
+  color: "#B706B6"
+
+- type: soft-skill-indicator
+  name: Team Work
+  percentage: 90
+  color: "#27EAEB"
+
+- type: soft-skill-indicator
+  name: Hard Working
+  percentage: 100
+  color: "#0A1653"
+
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"

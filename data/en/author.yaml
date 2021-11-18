@@ -1,0 +1,17 @@
+# some information about you
+name: "Lukas Simonson"
+nickname: "Lukas"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hello, I'm"
+image: "images/author/lukasSimonson.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "simonson.lukas@gmail.com"
+  phone: "+1(435) 705-1981"
+
+# some summary about what you do
+summary:
+  - I am a Developer
+  - I do Full Stack
+  - I am a Designer
+  - I work on open-source projects

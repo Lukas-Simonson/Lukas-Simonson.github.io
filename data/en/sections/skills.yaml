@@ -1,0 +1,28 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+
+- name: Swift
+  logo: /images/sections/skills/swift.svg
+  summary: "Capable of writing, maintaing, and deploying mobile applications using Swift, and the SwiftUI framework."
+  url: "https://swift.org/"
+
+- name: Kotlin
+  logo: /images/sections/skills/kotlinLogo.png
+  summary: "Capable of writing, maintaing, and deploying mobile applications using Kotlin, and the Jetpack library."
+  url: "https://kotlinlang.org/"
+
+- name: Git
+  logo: /images/sections/skills/gitLogo.png
+  summary: "Experienced with using Git, especially github, to manage versions, and organize large scale or team oriented projects."
+  url: "https://git-scm.com/"

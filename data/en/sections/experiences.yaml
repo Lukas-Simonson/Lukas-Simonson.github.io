@@ -1,0 +1,59 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+
+- company:
+    name: Target Corp.
+    url: "https://www.target.com"
+    location: St. George, UT
+    # company overview
+    overview: Target Corp is a retail giant, selling large amounts of goods across the country.
+  positions:
+  - designation: Food and Beverage Expert
+    start: Oct 2017
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Handling guest communication and service.
+    - Managing and directing a small team towards our daily goals.
+    - Completed daily tasks given to me by my leaders.
+
+  # - designation: Junior Software Engineer
+  #   start: Nov 2017
+  #   end: Oct 2019
+  #   responsibilities:
+  #   - Implement and test xyz feature for abc tool.
+  #   - Support client for abc tool.
+  #   - Learn k,d,w technology for xyz.
+
+- company:
+    name: Dairy Queen Inc.
+    url: "https://www.dairyqueen.com"
+    location: St. George, UT - Mall Drive Location
+    # company overview
+    overview: Dairy Queen is a franchised fast food chain.
+  positions:
+  - designation: Night Shift Manager
+    start: May 2016
+    end: Febuary 2018
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Worked with customers and workers to deescalate tense situations.
+    - Managed a large team nightly and directed them to keep customer service and production efficiency to a maximum.
+    -  Worked late hours and overtime when necessary to always complete the tasks at hand.
+
+
+
+
